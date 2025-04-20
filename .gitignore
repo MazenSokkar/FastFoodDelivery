@@ -362,5 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-FastFoodDelivery/FastFoodDelivery.Web/appsettings.json
-FastFoodDelivery/FastFoodDelivery.Web/appsettings.Development.json
+.vscode/settings.json
+FastFoodDelivery.Web/appsettings.json
+FastFoodDelivery.Web/appsettings.Development.json
